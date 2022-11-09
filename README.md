@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=jeongyeonKimm&fontColor=FFFFFF&fontAlignX=45&fontAlignY=65&fontSize=100)
+<p align="center">
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=jeongyeonKimm&fontColor=JeongyeonKim&fontAlignX=45&fontAlignY=65&fontSize=100)
+</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
