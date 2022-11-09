@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=jeongyeonKimm&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=jeongyeonKimm&fontColor=000000&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjeongyeonKimm&count_bg=%23FA6699&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjeongyeonKimm&count_bg=%23FA6699&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 </p>
